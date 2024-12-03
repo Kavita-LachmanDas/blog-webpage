@@ -4,7 +4,7 @@
 import Image from 'next/image';
 import React from 'react';
 
-export default function Card(Props: any) {
+export default function Card(Props) {
   return (
     <div className="overflow-x-hidden flex flex-col w-[300px] bg-white shadow-md rounded-lg overflow-hidden border border-gray-200">
       <Image
