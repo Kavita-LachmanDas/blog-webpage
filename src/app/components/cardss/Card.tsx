@@ -1,25 +1,4 @@
-// 'use client'
 
-// import Image from 'next/image'
-// import React from 'react'
-
-// export default function Card(Props:any) {
-//   return (
-//     <div>
-//         <div className="card flex ">
-//        <div className="hello border-2 w-[300px]  ">
-//        <Image src={Props.image} alt='hii' width={300} height={300} />
-//             <div className="text text-center content-center p-[20px] font-sans ">
-//                 <h1 className='font-bold text-[18px]'>{Props.description}</h1>
-//                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus odio reiciendis earum rerum quidem exercitationem enim dolor et tenetur totam expedita error voluptatem veniam fugiat sed assumenda, reprehenderit voluptatibus nisi.</p>
-//             </div>
-//             </div>
-
-           
-//         </div>
-//     </div>
-//   )
-// }
 'use client';
 
 import Image from 'next/image';
